@@ -1,2 +1,3 @@
 # PDC_training
-this i
+this repo is only for training purpose.
+Hello
